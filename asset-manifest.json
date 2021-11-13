@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Weather-app/static/css/main.cf929791.chunk.css",
-    "main.js": "/Weather-app/static/js/main.ed446aa9.chunk.js",
-    "main.js.map": "/Weather-app/static/js/main.ed446aa9.chunk.js.map",
-    "runtime-main.js": "/Weather-app/static/js/runtime-main.ea090f46.js",
-    "runtime-main.js.map": "/Weather-app/static/js/runtime-main.ea090f46.js.map",
-    "static/css/2.58a45539.chunk.css": "/Weather-app/static/css/2.58a45539.chunk.css",
-    "static/js/2.a3f1bbf4.chunk.js": "/Weather-app/static/js/2.a3f1bbf4.chunk.js",
-    "static/js/2.a3f1bbf4.chunk.js.map": "/Weather-app/static/js/2.a3f1bbf4.chunk.js.map",
-    "static/js/3.0d59828a.chunk.js": "/Weather-app/static/js/3.0d59828a.chunk.js",
-    "static/js/3.0d59828a.chunk.js.map": "/Weather-app/static/js/3.0d59828a.chunk.js.map",
-    "index.html": "/Weather-app/index.html",
-    "static/css/2.58a45539.chunk.css.map": "/Weather-app/static/css/2.58a45539.chunk.css.map",
-    "static/css/main.cf929791.chunk.css.map": "/Weather-app/static/css/main.cf929791.chunk.css.map",
-    "static/js/2.a3f1bbf4.chunk.js.LICENSE.txt": "/Weather-app/static/js/2.a3f1bbf4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Weather-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/Lior-Solomon-31.10.2021/static/css/main.cf929791.chunk.css",
+    "main.js": "/Lior-Solomon-31.10.2021/static/js/main.70b79e05.chunk.js",
+    "main.js.map": "/Lior-Solomon-31.10.2021/static/js/main.70b79e05.chunk.js.map",
+    "runtime-main.js": "/Lior-Solomon-31.10.2021/static/js/runtime-main.043923c6.js",
+    "runtime-main.js.map": "/Lior-Solomon-31.10.2021/static/js/runtime-main.043923c6.js.map",
+    "static/css/2.58a45539.chunk.css": "/Lior-Solomon-31.10.2021/static/css/2.58a45539.chunk.css",
+    "static/js/2.848d223a.chunk.js": "/Lior-Solomon-31.10.2021/static/js/2.848d223a.chunk.js",
+    "static/js/2.848d223a.chunk.js.map": "/Lior-Solomon-31.10.2021/static/js/2.848d223a.chunk.js.map",
+    "static/js/3.80f2eff6.chunk.js": "/Lior-Solomon-31.10.2021/static/js/3.80f2eff6.chunk.js",
+    "static/js/3.80f2eff6.chunk.js.map": "/Lior-Solomon-31.10.2021/static/js/3.80f2eff6.chunk.js.map",
+    "index.html": "/Lior-Solomon-31.10.2021/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/Lior-Solomon-31.10.2021/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.cf929791.chunk.css.map": "/Lior-Solomon-31.10.2021/static/css/main.cf929791.chunk.css.map",
+    "static/js/2.848d223a.chunk.js.LICENSE.txt": "/Lior-Solomon-31.10.2021/static/js/2.848d223a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Lior-Solomon-31.10.2021/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ea090f46.js",
+    "static/js/runtime-main.043923c6.js",
     "static/css/2.58a45539.chunk.css",
-    "static/js/2.a3f1bbf4.chunk.js",
+    "static/js/2.848d223a.chunk.js",
     "static/css/main.cf929791.chunk.css",
-    "static/js/main.ed446aa9.chunk.js"
+    "static/js/main.70b79e05.chunk.js"
   ]
 }
